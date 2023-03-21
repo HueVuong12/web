@@ -1,0 +1,143 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px;
+}
+
+.header-left {
+    display: flex;
+}
+
+.header-left-1 {
+    margin-top: 9px;
+}
+
+.header-left-2-1 {
+    display: flex;
+}
+
+.header-left-2-1 li {
+    display: block;
+}
+
+.header-left-2-Home {
+    margin-right: 20px;
+}
+
+.header-left-2-Best {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.header-left-2-New {
+    margin-right: 20px;
+}
+
+.header-right {
+    display: flex;
+}
+
+.header-right-box {
+    margin-right: 12px;
+    margin-top: 13px;
+}
+
+.header-right-chuong {
+    margin-right: 12px;
+    margin-top: 11px;
+}
+
+.header-right-giohang {
+    margin-right: 12px;
+    margin-top: 12px;
+}
+
+.header-right-avt {
+    margin-right: 12px;
+    margin-top: 8px;
+}
+
+.ti-search {
+    position: absolute;
+    margin-left: 7px;
+    padding-top: 5px;
+}
+
+.header-right-box1 {
+    padding-left: 26px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.content {
+    margin: 0px 130px 0px 115px;
+}
+
+.content1 {
+    display: flex;
+    margin-top: 35px;
+}
+
+.content1-Home {
+    margin-right: 6px;
+}
+
+.content1-1 {
+    margin-right: 6px;
+}
+
+.content1-Categry {
+    margin-right: 6px;
+}
+
+.content1-2 {
+    margin-right: 6px;
+}
+
+.content1-Product {
+    margin-right: 6px;
+}
+
+.content3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content3-42 {
+    margin: -20px 0px 0px 3px;
+}
+
+.content3-99 {
+    margin: -15px 0px 0px 2px;
+}
+
+.content3-1 {
+    display: flex;
+}
+
+.content3-2 {
+    display: flex;
+}
+
+.content3-2-share {
+    margin-right: 20px;
+}
+
+.content4 {
+    display: flex;
+}
+.content4-1{
+    margin-left: 36px;
+}
+.content4-1-2{
+   
+    margin-top: 20px;
+}
+.content4-2{
+    margin-left: 26px;
+}
+
+
+.content4-2-2{
+    margin-top: 20px;
+}
