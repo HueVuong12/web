@@ -356,3 +356,53 @@
 .content6-2-2{
     margin: 18px 0px 0px 15px;
 }
+.content7-1{
+    display: flex;
+    justify-content: space-between;
+}
+.conten7-1-see{
+    color: #C0C0C0;
+    display: flex;
+}
+.content7-1-see-2{
+    margin-left: 15px;
+}
+.content7-2-img1-1{
+    display: flex;
+    justify-content: space-between;
+}
+.content7-2{
+    display: flex;
+}
+.content7-2-img1-3{
+    display: flex;
+    justify-content: space-between;
+}
+.content7-2-img1-1-product{
+    margin-left: 15px;
+}
+.content7-2-img1-1-heart{
+    margin: 23px 21px 0px 0px;
+    color: #C0C0C0;
+}
+.content7-2-img1-230{
+    margin: -12px 0px 0px 15px;
+}
+.conten7-2-img1-3-rating300{
+    margin: 10px 0px 0px 12px;
+}
+.content7-2-img1-3-1000{
+    margin: 9px 20px 0px 0px;
+   color: #C0C0C0;
+}
+.content7-2-img2-1{
+    display: flex;
+    justify-content: space-between;
+}
+.content7-2-img2{
+    margin-left: 26px;
+    margin-right: 26px;
+}
+.content7-2-img4{
+    margin-left: 26px;
+}
